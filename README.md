@@ -1,4 +1,4 @@
-# T_ML_Works
+# AI_ML_Works
 Various Python notebooks of AI/ML work
 
 I've worked on this for fun.
